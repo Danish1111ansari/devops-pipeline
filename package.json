@@ -1,0 +1,20 @@
+{
+  "name": "devops-pipeline",
+  "version": "1.0.0",
+  "description": "pipeline",
+  "main": "index.js",
+  "scripts": {
+    "run" : "node index.js",
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Danish1111ansari/devops-pipeline.git"
+  },
+  "author": "Danish",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Danish1111ansari/devops-pipeline/issues"
+  },
+  "homepage": "https://github.com/Danish1111ansari/devops-pipeline#readme"
+}
